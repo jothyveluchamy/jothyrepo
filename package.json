@@ -1,0 +1,16 @@
+{
+  "name": "sgames",
+  "version": "1.0.1",
+  "description": "node js training",
+  "main": "index.js",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "author": "jothy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "jasmine-core": "2.8.0",
+    "underscore": "1.4.3"
+  }
+}
